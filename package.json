@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/remchan110/bot-remchan"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": " git+https://github.com/remchan110/bot-remchan/issues"
   },
-  "homepage": "https://github.com/#readme"
+  "homepage": "git+https://github.com/remchan110/bot-remchan/#readme"
 }
